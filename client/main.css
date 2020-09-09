@@ -1,0 +1,35 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.done{
+	text-decoration: strike
+}
+
+.sec-color{
+	color: red;
+	font-size :2em;
+}
+.bg-light{
+	background-color:#ffffff44;
+}
+
+.backimage{
+	background: url("https://external-preview.redd.it/BSyx_VJNBrE2av17_fcGGmIu1G5xKbu2Q0FNyhmddvc.jpg?auto=webp&s=e8218552d9d0d25bbbb6b672ed3415035f9e53a5");
+	background-size: cover;
+}
+
+.backcolor{
+	background-color:#ffffff44;
+
+}
+.privatetask{
+	background: #ff9900;
+}
+
+
+.checked{
+	text-decoration: line-through;
+	color:grey;
+}
